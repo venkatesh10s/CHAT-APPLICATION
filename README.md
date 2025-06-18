@@ -58,3 +58,5 @@ Setting up a server and client to talk to each other over WebSockets
 ## Output and Behavior
 
 After starting the server with node server.js, the application can be accessed via http://localhost:3000. When opened in multiple browser windows or tabs, users can send and receive messages live. Each message appears with no delay, proving that the sockets are working as expected.
+
+![Image](https://github.com/user-attachments/assets/71330c03-26ee-406c-9c0e-9dd99cf5f3e0)
